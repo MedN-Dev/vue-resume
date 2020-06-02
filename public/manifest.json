@@ -1,0 +1,8 @@
+{
+    "name": "Vue Resume",
+    "short_name": "CV",
+    "lang": "en-GB",
+    "display": "standalone",
+    "orientation": "any",
+    "theme_color": "#3273dc"
+  }
